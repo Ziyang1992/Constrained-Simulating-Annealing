@@ -1,5 +1,5 @@
 # Constrained-Simulating-Annealing
-Those codess implement the algorithm in Phase retrieval for the binary signal：theorem and algorithm
+Those codes implement the algorithm in Phase retrieval for the binary signal：theorem and algorithm
 --------------------------------------------------------------------------------------------------------------------------
 
   Code demo for "Phase retrieval for the binary signal：theorem and algorithm"
