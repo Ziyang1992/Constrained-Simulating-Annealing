@@ -24,4 +24,4 @@ If this code offers help in your research, please cite our paper:
 
 "Phase retrieval for the binary signal：theorem and algorithm"
 
-If you have any comment, suggestion, or question, please contact Liheng Bian at yuanziyang11@nudt.edu.cn.
+If you have any comment, suggestion, or question, please contact Ziyang Yuan at yuanziyang11@nudt.edu.cn.
