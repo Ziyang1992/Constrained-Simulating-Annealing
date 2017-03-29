@@ -1,5 +1,5 @@
 % Implemetation of the Constrained Simulating Annealing method presented
-% in the paper "Phase retrieval for the binary signal£ºuniqueness and algorithm"
+% in the paper "Phase retrieval for the binary signalÂ£Âºuniqueness and algorithm"
 % By Ziyang Yuan and Hongxia Wang
 % This simulating experiments are aim for 2D David star
 % Code written by Ziyang Yuan
